@@ -1,2 +1,1 @@
-# bookbot
-Bookbot pilot project
+BookBot is my first project!
